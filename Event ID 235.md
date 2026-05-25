@@ -17,4 +17,4 @@ After using Whois we found that the source address is external and from Beijing 
 After putting the source IP address through VirusTotal it is listed as malicious by 10 different vendors
 
 ## Escalate alert
-With the information found we should escalate the alert as a true positive.
+With the raw data showing long commands including "--" as well as a source IP address from Beijing that is marked malicious through VirusTotal this is strong evidence to show that this alert is a true positive and should be escalated
